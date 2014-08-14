@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/boleto",
+    "name": "hatframework/hat-resource-boleto",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/boleto",
+    "homepage": "https://github.com/hat-framework/hat-resource-boleto",
     "license": "MIT",
     "authors": [
         {
